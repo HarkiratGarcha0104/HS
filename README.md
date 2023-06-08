@@ -1,5 +1,5 @@
 # HS
-Harkirat Singh
+Your Name-Harkirat Singh
 
 Project title Lab 3
 
